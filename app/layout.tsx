@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Dummy LINE UI Starter",
   description: "Progressive web starter for LINE inspired experiences.",
-  manifest: "/manifest.json",
+  manifest: "/manifest.webmanifest",
   icons: {
     icon: "/favicon.ico",
   },
