@@ -13,10 +13,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "LINE風PWAダミー環境 | PWA LINE Studio",
-  description:
-    "完全オフラインで使えるLINE風PWAダミー環境。トークや友だちを自由に編集し、安全に研修・検証ができる法人向けツール。",
-  manifest: "/manifest.json",
+  title: "Dummy LINE UI Starter",
+  description: "Progressive web starter for LINE inspired experiences.",
+  manifest: "/manifest.webmanifest",
   icons: {
     icon: "/favicon.ico",
   },
